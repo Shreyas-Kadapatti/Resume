@@ -83,4 +83,4 @@ Volunteer, [Tech-Related Organization or Community Event]
 Certifications
 
 	•	NPTEL-Advanced R programming in Buisness Analytics
-	•	[Certification Name] (e.g., “AWS Cloud Practitioner”)
+	•	WEB DEVOLEPMENT
